@@ -1,2 +1,4 @@
 # hello-world
-Sample repository
+=============
+
+Sample repository to practice branching, and commits
